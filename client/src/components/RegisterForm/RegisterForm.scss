@@ -1,0 +1,23 @@
+@import './../../scss/index.scss';
+
+.register-form{
+    text-align: left;
+}
+
+.register-form__input{
+    border-radius: 5px;
+    //color: #A9CCE3;
+
+}
+
+.register-form__button{
+    background-color: #A9CCE3;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+.register-form__button:hover {
+    background-color: #599ac2;
+
+}
+

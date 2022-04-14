@@ -1,0 +1,71 @@
+$defaultFontSize : 16px ;
+//colores base 1
+$primary-color-1 : #48C9B0;
+$primary-color-hover-1 : #A3E4D7 ;
+$primary-color-light-1 :#E8F8F5;
+$primary-color-dark-1: #0E6251;
+
+//colores base 2
+$primary-color-2 : #5499C7  ;
+$primary-color-hover-2 : #A9CCE3 ;
+$primary-color-light-2 :#EAF2F8;
+$primary-color-dark-2: #154360;
+
+$menu-color : #252527;
+
+//fuentes
+$font-light : #fff;
+$font-grey-light : #e8e8e8;
+$font-grey : #808080;
+$font-grey-dark : #000;
+$font-dark-light : "";
+$font-dark : #000;
+
+//bordes 
+$border-light : #fff;
+$border-grey-light : #e8e8e8;
+$border-grey : #808080;
+$border-grey-dark : #595959;
+$border-dark-light : #252527;
+$border-dark : #000;
+
+//fondos 
+$background-light : #fff;
+$background-grey-light : #e8e8e8;
+$background-grey : #808080;
+$background-grey-dark : #595959;
+$background-dark-light : #252527;
+$background-dark : #000;
+$background-error : #ff00001f;
+$background-sucess : #84b84c1f;
+$background-dark-web : #10202b;
+$background-dark-light-web:#1a2734;
+
+
+//eventos
+$success : #38e629;
+$error : #f00 ; 
+
+//colores para redes sociales 
+$youtube : #cd201f;
+$twitter : #1da1f2;
+$facebook: #3b5998;
+$linkedin:#0077b5;
+$instagram:#3f729b;
+
+// Responsive down size (variables para puntos de corte hacia abajo )
+//son variables que contienen tamanos 
+
+$media-breackpoint-down-xs : 413.98px ; 
+$media-breackpoint-down-sm : 573.98px ; 
+$media-breackpoint-down-md : 767.98px ; 
+$media-breackpoint-down-lg : 991.98px ; 
+$media-breackpoint-down-xl : 1199.98px ; 
+
+// Responsive up size (variables para puntos de corte hacia arriba )
+
+$media-breackpoint-up-xs : 320px ; 
+$media-breackpoint-up-sm : 576px ; 
+$media-breackpoint-up-md : 768px ; 
+$media-breackpoint-up-lg : 992px ; 
+$media-breackpoint-up-xl : 1200px ;

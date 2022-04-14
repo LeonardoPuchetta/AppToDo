@@ -1,0 +1,32 @@
+@import './../scss/index.scss';
+
+
+.layout-sign {
+    
+    &__header {
+        position: fixed;
+        //background-color: $primary-color-1;
+        background :linear-gradient(45deg,$primary-color-dark-2,$primary-color-hover-2);
+
+        width: 100%;
+        text-align: center;
+        height: 70px;
+    }
+    &__content {
+        min-height: calc(100vh - 70px );
+        padding : 90px 25px 25px 25px ; 
+        text-align: center;
+
+    }
+
+    &__footer {
+        background :linear-gradient(45deg,$primary-color-dark-2,$primary-color-hover-2);
+        //background-color: $primary-color-1;
+        width: 100%;
+        text-align: center;
+        height: 70px;
+        padding: 20px ;
+    }
+
+
+}
